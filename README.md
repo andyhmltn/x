@@ -18,4 +18,5 @@ X.JS
 
 It's code in the shape of an X, that when executed, prints out an X :)
 
-This was actually a lot harder than it looks
+This was actually a lot harder than it looks. It also creates a weird pattern
+when you stack it the same code multiple times (see dna.js)
